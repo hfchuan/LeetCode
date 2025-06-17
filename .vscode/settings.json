@@ -48,6 +48,8 @@
         "streambuf": "cpp",
         "typeinfo": "cpp",
         "ctime": "cpp",
-        "ios": "cpp"
+        "ios": "cpp",
+        "stack": "cpp",
+        "sstream": "cpp"
     }
 }
