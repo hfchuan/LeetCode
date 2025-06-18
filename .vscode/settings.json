@@ -50,6 +50,7 @@
         "ctime": "cpp",
         "ios": "cpp",
         "stack": "cpp",
-        "sstream": "cpp"
+        "sstream": "cpp",
+        "queue": "cpp"
     }
 }
